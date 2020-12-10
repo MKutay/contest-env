@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Download Problem from competitive companion file by ecnerwala
 """Download and setup problems from Competitive Companion
 Usage:
   download_prob.py prob [<name>]
